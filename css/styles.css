@@ -48,7 +48,7 @@ section{
 
 } 
 #navbar .nav-list li a {
-	color: none;
+	color:#000000;
 	text-decoration: none;
 
 }
@@ -80,6 +80,7 @@ section{
 
  #skills .section-details ul li{
  	width: 25%;
+ 	font-size: 20px;
  }
 
  #skills {
@@ -90,6 +91,7 @@ section{
  #skills .section-details{
  	width: 85%;
  	margin: 0px auto;
+ 	font-size: 20px;
  }
 
  #about .section-details{
@@ -102,11 +104,14 @@ section{
  #about{
  	width: 85%;
  	margin: 0px auto;
+ 	font-size: 20px;
  }
+ 
  
 
  #about .section-details img{
  	margin-right: 50px;
+
  }
 #contact {
 	background-color: #DDDDDD;
